@@ -1,5 +1,4 @@
 # Full-Stack User Authentication System
-# By:Itay Laznik
 
 A complete, decoupled full-stack user registration and authentication application. Built with React on the frontend and a Node.js/Express backend, this project leverages PostgreSQL for persistent storage and incorporates secure password hashing, JWT-based session management, and real-time Socket.io connections.
 
